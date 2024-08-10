@@ -1,0 +1,48 @@
+City	State	Attraction	Visitors (in thousands)	Revenue (in million USD)	Avg. Length of Stay (days)	Hotels (count)	Avg. Hotel Price (USD)	Restaurants (count)	Tourist Season	Avg. Temperature (°C)	Popular Activity
+Agra	Uttar Pradesh	Taj Mahal	1000	50	2	200	60	150	October - March	25	Sightseeing
+Jaipur	Rajasthan	Amber Fort	800	40	3	250	70	200	October - March	28	Heritage Tours
+Delhi	Delhi	India Gate	1500	75	2.5	500	80	500	October - March	22	City Tours
+Mumbai	Maharashtra	Gateway of India	1200	100	3	300	100	400	November - February	27	Beach Tours
+Chennai	Tamil Nadu	Marina Beach	900	50	3	150	50	250	November - February	28	Beach Tours
+Bangalore	Karnataka	Lalbagh Botanical Garden	700	60	2	200	90	300	October - February	24	Garden Tours
+Kolkata	West Bengal	Victoria Memorial	800	55	2.5	220	75	350	November - February	25	Heritage Tours
+Hyderabad	Telangana	Charminar	700	45	2	180	70	200	October - February	26	Historical Tours
+Kochi	Kerala	Fort Kochi	600	35	3	100	60	150	October - March	27	Beach Tours
+Varanasi	Uttar Pradesh	Ghats	500	30	2	120	50	100	November - March	22	Pilgrimage Tours
+Udaipur	Rajasthan	City Palace	400	25	3	100	80	120	October - March	26	Heritage Tours
+Amritsar	Punjab	Golden Temple	600	40	2	150	70	180	October - March	20	Pilgrimage Tours
+Shimla	Himachal Pradesh	Mall Road	500	35	4	120	60	130	April - June	18	Mountain Tours
+Darjeeling	West Bengal	Tiger Hill	400	20	3	80	50	100	April - June	16	Mountain Tours
+Ooty	Tamil Nadu	Botanical Gardens	350	15	3	90	40	80	April - June	17	Hill Station Tours
+Manali	Himachal Pradesh	Rohtang Pass	450	30	4	100	60	120	April - June	15	Adventure Tours
+Goa	Goa	Baga Beach	1000	80	5	250	100	300	November - February	29	Beach Tours
+Jaisalmer	Rajasthan	Jaisalmer Fort	350	20	3	70	60	80	October - March	25	Desert Tours
+Rishikesh	Uttarakhand	Laxman Jhula	300	15	2	60	40	70	October - March	20	Adventure Tours
+Leh	Ladakh	Pangong Lake	250	20	5	50	100	50	June - September	15	Mountain Tours
+Pondicherry	Puducherry	Promenade Beach	200	10	3	80	50	90	November - February	27	Beach Tours
+Ahmedabad	Gujarat	Sabarmati Ashram	300	15	2	100	70	120	October - February	25	Heritage Tours
+Mysore	Karnataka	Mysore Palace	350	20	2	110	60	150	October - February	24	Heritage Tours
+Bhopal	Madhya Pradesh	Sanchi Stupa	200	10	2	70	50	80	October - March	24	Heritage Tours
+Lucknow	Uttar Pradesh	Bara Imambara	300	15	2	100	60	120	October - March	23	Heritage Tours
+Guwahati	Assam	Kamakhya Temple	250	12	2	80	50	100	October - March	22	Pilgrimage Tours
+Bhubaneswar	Odisha	Lingaraj Temple	300	15	2	90	50	110	October - March	25	Pilgrimage Tours
+Trivandrum	Kerala	Kovalam Beach	400	25	3	100	60	150	October - March	27	Beach Tours
+Panaji	Goa	Basilica of Bom Jesus	300	20	2	120	80	100	November - February	29	Heritage Tours
+Puri	Odisha	Jagannath Temple	400	20	3	110	60	120	October - March	24	Pilgrimage Tours
+Aizawl	Mizoram	Durtlang Hills	150	10	3	40	50	60	November - February	20	Hill Station Tours
+Shillong	Meghalaya	Umiam Lake	250	12	3	70	60	90	November - February	19	Hill Station Tours
+Imphal	Manipur	Kangla Fort	200	10	2	60	50	80	October - March	21	Heritage Tours
+Patna	Bihar	Mahavir Mandir	300	15	2	80	60	100	October - March	25	Pilgrimage Tours
+Ranchi	Jharkhand	Hundru Falls	150	10	3	50	50	60	October - February	22	Nature Tours
+Raipur	Chhattisgarh	Nandan Van Zoo	200	12	2	70	50	80	October - February	24	Nature Tours
+Dehradun	Uttarakhand	Robber's Cave	250	15	2	90	60	110	October - March	20	Adventure Tours
+Chandigarh	Chandigarh	Rock Garden	300	20	2	100	70	150	October - March	22	Sightseeing
+Surat	Gujarat	Dumas Beach	250	12	2	80	50	90	November - February	27	Beach Tours
+Kanpur	Uttar Pradesh	Allen Forest Zoo	200	10	2	60	50	70	October - March	23	Nature Tours
+Nagpur	Maharashtra	Deekshabhoomi	250	15	2	70	50	90	October - March	26	Pilgrimage Tours
+Madurai	Tamil Nadu	Meenakshi Temple	400	25	2	110	60	140	October - March	27	Pilgrimage Tours
+Vellore	Tamil Nadu	Vellore Fort	150	10	2	50	40	70	October - March	26	Heritage Tours
+Coimbatore	Tamil Nadu	Marudamalai Temple	200	12	2	70	50	80	October - March	27	Pilgrimage Tours
+Aurangabad	Maharashtra	Ajanta Caves	300	20	2	80	60	100	October - March	24	Heritage Tours
+Srinagar	Jammu and Kashmir	Dal Lake	400	30	3	100	70	120	April - June	15	Mountain Tours
+Jammu	Jammu and Kashmir	Vaishno Devi	600	35	2	150	60	180	October - March	20	Pilgrimage Tours
